@@ -1,0 +1,13 @@
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\bin\Debug\netcoreapp2.0\Entities.deps.json
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\bin\Debug\netcoreapp2.0\Entities.dll
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\bin\Debug\netcoreapp2.0\Entities.pdb
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\obj\Debug\netcoreapp2.0\Entities.csprojResolveAssemblyReference.cache
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\obj\Debug\netcoreapp2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\obj\Debug\netcoreapp2.0\Entities.AssemblyInfoInputs.cache
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\obj\Debug\netcoreapp2.0\Entities.AssemblyInfo.cs
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\obj\Debug\netcoreapp2.0\Entities.dll
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\obj\Debug\netcoreapp2.0\Entities.pdb
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\bin\Debug\netcoreapp2.0\Enums.dll
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\bin\Debug\netcoreapp2.0\Interfaces.dll
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\bin\Debug\netcoreapp2.0\Interfaces.pdb
+C:\Projects\c#\Novia\ParkingChargeCalculator\Entities\bin\Debug\netcoreapp2.0\Enums.pdb
